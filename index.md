@@ -2,4 +2,4 @@
 layout: default
 ---
 
-### Welcome!
+<h1 align="center">Welcome!</h1>
