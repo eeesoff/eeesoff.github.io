@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 홈
+title: Eeesoff
 ---
 
 # 안녕하세요 👋
