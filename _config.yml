@@ -1,1 +1,6 @@
+title: Eeesoff
 theme: jekyll-theme-minimal
+
+nav:
+  - title: "Products"
+    url: /products
